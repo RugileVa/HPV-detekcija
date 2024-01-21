@@ -10,9 +10,9 @@ Diagnostinė sistema specifiška ir neturi signalo nepavojingų HPV infekcijų a
 
 2. Parinkta probių sistema pavojingų papilomos viruso tipų detekcijai, kurioje kuo mažesnis probių kiekis tinkantis visų žinomų didelės rizikos HPV tipų variantų diagnostikai, taip kad:
 
- Visų probių ilgis 30 bazių porų (bp). Probė – tai trumpas DNR fragmentas, DNR sekos intervalas. <br>
+ Visų probių ilgis `30 bazių porų` (bp). Probė – tai trumpas DNR fragmentas, DNR sekos intervalas. <br>
  Kiekvienai didelio pavojingumo papilomos viruso sekai yra bent po vieną probę rinkinyje, taip kad tarp jos sekos ir viruso sekos būtų `ne daugiau nei 2 nesutapimai`. <br>
- Visos probės turi bent po 3 nesutapimus su visomis nepavojingų virusų sekomis. <br>
- DNR sekos sritis, iš kurio parenkamos visos probės neilgesnės nei 60 bp. <br>
+ Visos probės turi `bent po 3 nesutapimus` su visomis nepavojingų virusų sekomis. <br>
+ DNR sekos sritis, iš kurio parenkamos visos probės neilgesnės nei `60 bp`. <br>
 
 
