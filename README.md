@@ -15,4 +15,6 @@ Diagnostinė sistema specifiška ir neturi signalo nepavojingų HPV infekcijų a
  Visos probės turi `bent po 3 nesutapimus` su visomis nepavojingų virusų sekomis. <br>
  DNR sekos sritis, iš kurio parenkamos visos probės neilgesnės nei `60 bp`. <br>
 
+3. Kadangi reikia analizuoti `didelį kiekį duomenų`, pasinaudota dalykinės srities žiniomis, bandant sumažinti probių ieškojimo sritį. Apskaičiuota `60 bp` regionų konservatyvumas naudojantis entropijos formule. Didžiausią konservatyvumą turintys regionai greičiausiai yra virusui funkciškai svarbiausi ir mažai kintantys t.y sritys, leidžiančios atpažinti pavojingus virusus.
+
 
